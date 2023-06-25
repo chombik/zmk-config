@@ -63,7 +63,7 @@
             bindings = <
   &tog NUMS    &kp GRAVE   &kp TILDE   &kp LCUR   &kp RCUR    &kp AMPS     &kp ASTRK   &kp LPRN    &kp RPRN  &kp LBKT   &kp RBKT    &kp PIPE
   &tog ARRW    &kp EXCL       &kp AT   &kp HASH   &kp DLLR   &kp PRCNT      &kp PLUS  &kp MINUS   &kp EQUAL  &kp SCLN    &kp DQT    &kp QUOT
-  &trans    &kp QMAR     &kp BSLS     &kp LT     &kp GT    &kp CRRT       &kp FSLS  &kp UNDER   &kp COMMA   &kp DOT   &kp COLN      &mo 5
+  &trans    &kp QMARK     &kp BSLS     &kp LT     &kp GT    &kp CRRT       &kp FSLS  &kp UNDER   &kp COMMA   &kp DOT   &kp COLN      &mo 5
                                &trans     &trans  &trans    &trans        &trans     &trans   &mt LALT DEL    &trans
             >;
         };
